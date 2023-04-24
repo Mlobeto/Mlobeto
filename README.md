@@ -1,5 +1,17 @@
 <h1 align="center">Hola 👋, Soy María</h1>
-<h3 align="center">Una apasionada del desarrollo de software</h3>
+<h3 align="center">Hi! I'm Maria, passionate about software development and 3D modeling. I recently graduated from the fullstack development bootcamp at Henry, where I gained solid technical skills in web application design and development. With previous experience in 3D modeling, I am looking forward to the opportunity to combine my creativity with my programming skills to create innovative solutions.
+
+At Henry I acquired skills in technologies such as JavaScript, React, Node.js, etc.
+I participated in hands-on fullstack development projects, which included building functional web applications from scratch and collaborating in agile teams 
+
+
+Programming languages: JavaScript, HTML, CSS.
+Front-end technologies: React, Redux, Vue, Angular.
+Back-end technologies: Node.js, Express,
+Databases: Sequelize
+Version Control Tools: Git, GitHub.
+3D Modeling: 3DStudioMax.
+Other: Problem solving, teamwork, adaptability, creativity.</h3>
 
 - 🔭Acabo de graduarme del Bootcamp de Henry [Developer FullStack](https://promanitas.netlify.app/)
 
