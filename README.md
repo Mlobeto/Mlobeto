@@ -15,7 +15,7 @@ Other: Problem solving, teamwork, adaptability, creativity.</h3>
 
 
 
-- Mi repositorio personal [PI Dogs](https://github.com/Mlobeto)
+- Mi repositorio personal (https://github.com/Mlobeto)
 
 -
 
