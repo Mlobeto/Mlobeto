@@ -5,19 +5,19 @@ At Henry I acquired skills in technologies such as JavaScript, React, Node.js, e
 I participated in hands-on fullstack development projects, which included building functional web applications from scratch and collaborating in agile teams 
 
 
-Programming languages: JavaScript, HTML, CSS.
+Programming languages: Java, JavaScript, React, React Native
 Front-end technologies: React, Redux, Vue, Angular.
 Back-end technologies: Node.js, Express,
-Databases: Sequelize
+Databases: SQL Postgress
 Version Control Tools: Git, GitHub.
 3D Modeling: 3DStudioMax.
 Other: Problem solving, teamwork, adaptability, creativity.</h3>
 
-- 🔭Acabo de graduarme del Bootcamp de Henry [Developer FullStack](https://promanitas.netlify.app/)
 
-- Mi proyecto personal [PI Dogs](https://github.com/Mlobeto/PI-Dogs)
 
-- Mi Proyecto Grupal [Promanitas](https://github.com/Mlobeto/ProManitasAPI)
+- Mi repositorio personal [PI Dogs](https://github.com/Mlobeto)
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
