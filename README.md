@@ -15,7 +15,7 @@ Other: Problem solving, teamwork, adaptability, creativity.</h3>
 
 
 
-- Mi repositorio personal (https://github.com/Mlobeto)
+-Proyecto en Desarrollo React Native (https://github.com/Mlobeto/YSP)
 
 
 
