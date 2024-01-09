@@ -17,7 +17,7 @@ Other: Problem solving, teamwork, adaptability, creativity.</h3>
 
 - Mi repositorio personal (https://github.com/Mlobeto)
 
--
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
