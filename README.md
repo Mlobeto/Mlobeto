@@ -55,7 +55,6 @@ Especialidades:
 🌐 Conectemos
 
 LinkedIn: https://linkedin.com/in/mlobeto
- lobeto
 
 📊 Stats (opcional)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mlobeto&show_icons=true&layout=compact" /> </p>
