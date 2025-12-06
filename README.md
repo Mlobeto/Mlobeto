@@ -36,7 +36,7 @@ Stack: Node.js · Express · PostgreSQL (multitenant) · React · React Native
 
 📱 App Mobile – Proyecto actual
 
-🔗 Repo: https://github.com/Mlobeto/YSP
+🔗 Repo: https://github.com/Mlobeto
 
 Aplicación móvil orientada a gestión de rutinas y seguimiento.
 
