@@ -1,59 +1,58 @@
 # Mercedes Lobeto
 
-### Senior Software Engineer | SaaS Architecture | Node.js | React | PostgreSQL
+### Senior Software Engineer
+
+**Building scalable SaaS platforms, backend architectures and business-driven software.**
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Mobile-React%20Native-000000?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a Senior Software Engineer specialized in designing and developing scalable SaaS platforms.
+I'm a Senior Software Engineer with 8 years of experience building web applications and SaaS platforms.
 
-For more than a decade, I've been building business-critical applications across industries including telecommunications, real estate, healthcare, hospitality, and business management.
+I specialize in designing scalable backend architectures with Node.js and PostgreSQL while delivering complete products using React and React Native.
 
-My expertise goes beyond software development—I enjoy understanding business processes, designing scalable architectures, modeling complex databases, and building solutions that remain maintainable as products evolve.
+Throughout my career, I've developed software for telecommunications, real estate, hospitality, healthcare and business management, transforming complex business processes into reliable, maintainable systems.
 
-I work across the entire development lifecycle, from system architecture and backend development to modern React applications and mobile solutions.
+I enjoy understanding how businesses operate and translating those processes into software that is scalable, maintainable and easy to evolve.
 
 ---
 
-## What I Specialize In
+## What I Build
 
-- SaaS Platform Architecture
-- Multi-tenant Systems
-- Backend Development with Node.js & TypeScript
+- SaaS Platforms
+- Multi-tenant Architectures
+- Backend Systems with Node.js & TypeScript
 - PostgreSQL Database Design
-- REST API Design
+- REST APIs & Third-party Integrations
 - Authentication & RBAC
-- Third-party Integrations
-- Business Process Modeling
 - React & React Native Applications
-- Scalable System Design
+- Business Process Automation
+- Scalable Software Architecture
 
 ---
 
 ## Featured Projects
 
-### Telecommunications Operations Platform
+### 🏢 Telecommunications Operations Platform
 
-Enterprise platform for managing contracts, billing, technical support and customer operations.
+Enterprise platform for contracts, billing, ticket management and customer operations.
 
 **Highlights**
 
-- Modular backend architecture
+- Backend architecture
 - PostgreSQL relational modeling
-- Role-based access control (RBAC)
-- Ticket management
-- Billing workflows
+- RBAC
+- Ticket workflow
+- Billing modules
 - External API integrations
 
 **Stack**
@@ -62,9 +61,9 @@ Node.js • TypeScript • PostgreSQL • React
 
 ---
 
-### Real Estate SaaS Platform
+### 🏘️ Real Estate SaaS Platform
 
-Multi-tenant CRM designed for real estate agencies.
+Multi-tenant CRM platform designed for real estate agencies.
 
 **Features**
 
@@ -74,54 +73,29 @@ Multi-tenant CRM designed for real estate agencies.
 - CRM
 - Appointment scheduling
 - Cloudinary integration
-- JWT authentication
-
-**Stack**
-
-Node.js • PostgreSQL • React • React Native • Cloudinary
+- JWT Authentication
 
 ---
 
-### Business Management SaaS
+### 🏥 Business Management SaaS
 
-Complete management platform for service companies including scheduling, customer management and administrative workflows.
+Business platform for service companies including:
 
-**Highlights**
-
-- Multi-company architecture
-- Business process automation
+- Customer management
+- Scheduling
 - Administrative dashboards
 - Payments integration
 - WhatsApp automation
 
 ---
 
-### Hotel Management Platform
+### 🏨 Hotel Management Platform
 
-Management platform including:
-
-- Reservations
-- Billing
-- Customer management
-- Reports
-- Administrative dashboard
+Complete reservation and administration platform including billing, reporting and customer management.
 
 ---
 
-## Current Focus
-
-I'm currently building a next-generation multi-tenant SaaS platform designed for multiple companies with:
-
-- White-label branding
-- Shared architecture
-- Modular backend
-- React Web + React Native
-- PostgreSQL
-- Clean Architecture
-
----
-
-## Tech Stack
+## Technical Skills
 
 ### Backend
 
@@ -130,26 +104,44 @@ I'm currently building a next-generation multi-tenant SaaS platform designed for
 - TypeScript
 - REST APIs
 - JWT
+
+### Database
+
 - PostgreSQL
+- Database Modeling
+- Query Optimization
 
 ### Frontend
 
 - React
 - Next.js
-- Redux
 - React Native
+- Redux
 
 ### Architecture
 
-- SaaS Platforms
+- SaaS
 - Multi-tenancy
 - RBAC
 - Clean Architecture
-- Database Design
-- Scalable Systems
+- System Design
 
 ---
 
-## Connect
+## Currently Building
 
-- LinkedIn: https://linkedin.com/in/mmlobeto
+A next-generation multi-company SaaS platform with:
+
+- Multi-tenant architecture
+- White-label branding
+- Shared backend
+- React Web + React Native
+- PostgreSQL
+- Modular architecture
+
+---
+
+## Let's Connect
+
+💼 LinkedIn  
+https://linkedin.com/in/mmlobeto
